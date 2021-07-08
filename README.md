@@ -50,12 +50,10 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jaison A Alonso
 
 ### Ryan Hamblin
-
 ### Alice Karsevar
 
 
 ### Shawn Harrington
-=======
 
 ### Connie Reynolds
 =======
@@ -63,12 +61,19 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Hillary Khan
 
+=======
+### Rebecca Peckman
 
+### Connie Reynolds
+
+### Logan Til
+
+### Hillary Khan
+
+### Hillary Khan
 ### George Vinueza
 
 ### I am a merge conflict 👻
-
-
 
 ### Francis Nguyen
 
@@ -78,3 +83,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Daniel Vargas
 
 
+<<<<<<< HEAD
+>>>>>>> cd2d58c43a49a02316ee6c72978975a3f4ea58b5
+=======
+### Tony Yang
+### Hans Kiessler
+
+
+### Alex Pfeifer
+
+
+>>>>>>> 46426a7ce2b0c0abdf0453b87924e6ef0cb7cce9
