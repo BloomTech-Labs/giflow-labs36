@@ -37,7 +37,7 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 6️⃣:** Resolve any merge conflicts.
   - You may see a merge conflict that looks something like this:
     ![merge conflict](https://tk-assets.lambdaschool.com/dd45683f-788d-4bd9-832e-ed901151615f_ScreenShot2020-04-13at8.38.36AM.png)
-  - To resolve this, you need to go into that file (could be many files depending on how well you and your team are communicating) and remove the `<<<<<<< HEAD -stuff- ======= -stuff- >>>>>>> commit id` code and decide which lines of code to remove/keep.
+  - To resolve this, you need to go into that file (could be many files depending on how well you and your team are communicating) and remove the `<<<<<<< HEAD -stuff- -stuff- >>>>>>> commit id` code and decide which lines of code to remove/keep.
   - `💡Pro Tip: Once you've done this a few times manually, VSCode has an amazing built in Merge Conflict extension that will step you through the process.`
   - **Repeat step 4️⃣**: At this point you have a _dirty_ commit history once again and you need to run your typical staging, commit and publish commands but update your message to say something about 'resolving merge conflicts'.
 - **Step 7️⃣:** Open up your **Pull-request**. Now that you've resolved merge conflict and you're sure that your feature branch is up to date with main open up a pull-request:
@@ -53,39 +53,24 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Justin Peczenij
 
-=======
 ### Daniel Vargas
->>>>>>> d6da591469f88b326958539698f0ccdf9d2ecb24
-=======
-=======
-=======
+
+### Connie Reynolds
+
 ### Logan Til
->>>>>>> 2f92f4a64b82afcde0c0f5ef5bf225920e95532c
+
 ### Hillary Khan
->>>>>>> 0e90a2086665ff37f0f4e849d20a75fceaa55eee
 
 ### George Vinueza
 
 ### I am a merge conflict 👻
 
-
-
 ### Francis Nguyen
 
 ### Sergio Alvarez
 
-
 ### Daniel Vargas
 
-<<<<<<< HEAD
->>>>>>> e7be6c3770a00dfdb9f136564b3118d34415ca7f
 ### I am a merge conflict 👻
-=======
->>>>>>> 2f92f4a64b82afcde0c0f5ef5bf225920e95532c
-
