@@ -53,9 +53,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Jalpa Shah
-=======
 
 ### Francis Nguyen
 
@@ -66,4 +64,3 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### I am a merge conflict 👻
 
->>>>>>> f699b22ead4454bae71911366515e186d41295ef
