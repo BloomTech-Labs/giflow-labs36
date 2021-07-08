@@ -55,12 +55,16 @@ The following is a list of steps and instructions on how to complete this guided
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Justin Peczenij
 
 =======
 ### Daniel Vargas
 >>>>>>> d6da591469f88b326958539698f0ccdf9d2ecb24
 =======
+=======
+### Hillary Khan
+>>>>>>> 0e90a2086665ff37f0f4e849d20a75fceaa55eee
 
 ### George Vinueza
 
