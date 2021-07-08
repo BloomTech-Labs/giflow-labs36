@@ -47,10 +47,15 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+### Jaison A Alonso
 ### Ryan Hamblin
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Justin Peczenij
 
+=======
+### Daniel Vargas
+>>>>>>> d6da591469f88b326958539698f0ccdf9d2ecb24
 ### I am a merge conflict 👻
