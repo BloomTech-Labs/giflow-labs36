@@ -54,6 +54,7 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 ### Shawn Harrington
+### Hillary Khan
 
 ### George Vinueza
 
@@ -68,5 +69,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Daniel Vargas
 
-### I am a merge conflict 👻
 
