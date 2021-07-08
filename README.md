@@ -52,7 +52,14 @@ The following is a list of steps and instructions on how to complete this guided
 ### Ryan Hamblin
 ### Alice Karsevar
 
+
+### Rebecca Peckman
+
+### Connie Reynolds
+
 ### Logan Til
+
+### Hillary Khan
 
 ### Hillary Khan
 ### George Vinueza
@@ -63,9 +70,18 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Sergio Alvarez
 
->>>>>>> e7be6c3770a00dfdb9f136564b3118d34415ca7f
 
 ### Daniel Vargas
 
 
+<<<<<<< HEAD
 >>>>>>> cd2d58c43a49a02316ee6c72978975a3f4ea58b5
+=======
+### Tony Yang
+### Hans Kiessler
+
+
+### Alex Pfeifer
+
+
+>>>>>>> 46426a7ce2b0c0abdf0453b87924e6ef0cb7cce9
