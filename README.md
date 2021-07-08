@@ -56,6 +56,7 @@ The following is a list of steps and instructions on how to complete this guided
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Justin Peczenij
 
 =======
@@ -63,6 +64,9 @@ The following is a list of steps and instructions on how to complete this guided
 >>>>>>> d6da591469f88b326958539698f0ccdf9d2ecb24
 =======
 =======
+=======
+### Logan Til
+>>>>>>> 2f92f4a64b82afcde0c0f5ef5bf225920e95532c
 ### Hillary Khan
 >>>>>>> 0e90a2086665ff37f0f4e849d20a75fceaa55eee
 
@@ -79,6 +83,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Daniel Vargas
 
+<<<<<<< HEAD
 >>>>>>> e7be6c3770a00dfdb9f136564b3118d34415ca7f
 ### I am a merge conflict 👻
+=======
+>>>>>>> 2f92f4a64b82afcde0c0f5ef5bf225920e95532c
 
