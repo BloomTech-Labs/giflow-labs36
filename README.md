@@ -53,8 +53,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
+### Francis Nguyen
+
 ### Sergio Alvarez
+
 
 ### Daniel Vargas
 
 ### I am a merge conflict 👻
+
