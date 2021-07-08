@@ -71,7 +71,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Daniel Vargas
 
-<<<<<<< HEAD
-=======
-### Alex Pfeifer
->>>>>>> 0913e0c26be73cbd082a5ecdf8746b3014d8f146
+
+### Tony Yang
