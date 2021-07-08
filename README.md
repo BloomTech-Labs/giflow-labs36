@@ -53,6 +53,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+
 ### Rebecca Peckman
 
 ### Connie Reynolds
@@ -69,9 +70,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Sergio Alvarez
 
+
 ### Daniel Vargas
 
-<<<<<<< HEAD
-=======
+
+### Hans Kiessler
+
+
 ### Alex Pfeifer
->>>>>>> 0913e0c26be73cbd082a5ecdf8746b3014d8f146
+
+
