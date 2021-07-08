@@ -53,8 +53,14 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+### Connie Reynolds
+=======
+=======
 ### Logan Til
 ### Hillary Khan
+>>>>>>> 2f92f4a64b82afcde0c0f5ef5bf225920e95532c
 
 ### George Vinueza
 
@@ -66,6 +72,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Sergio Alvarez
 
+>>>>>>> e7be6c3770a00dfdb9f136564b3118d34415ca7f
 
 ### Daniel Vargas
 
