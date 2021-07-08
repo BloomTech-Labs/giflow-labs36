@@ -47,4 +47,23 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
+<<<<<<< HEAD
 ### Eric Park
+=======
+### Jaison A Alonso
+
+### Ryan Hamblin
+
+### Alice Karsevar
+
+
+### Francis Nguyen
+
+### Sergio Alvarez
+
+
+### Daniel Vargas
+
+### I am a merge conflict 👻
+
+>>>>>>> f699b22ead4454bae71911366515e186d41295ef
