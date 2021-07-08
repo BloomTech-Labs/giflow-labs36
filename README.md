@@ -50,17 +50,39 @@ The following is a list of steps and instructions on how to complete this guided
 ### Jaison A Alonso
 
 ### Ryan Hamblin
-
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Jalpa Shah
+=======
+### Rebecca Peckman
+
+### Connie Reynolds
+
+### Logan Til
+
+### Hillary Khan
+
+### Vince Garcia
+### George Vinueza
+
+### I am a merge conflict 👻
+>>>>>>> ee1f51ec227c6d21677bd91f03cffc0d3db5e2bb
 
 ### Francis Nguyen
 
 ### Sergio Alvarez
 
+<<<<<<< HEAD
 
 ### Daniel Vargas
 
 ### I am a merge conflict 👻
+=======
+### Daniel Vargas
+
+### Tony Yang
+### Hans Kiessler
+### Alex Pfeifer
+>>>>>>> ee1f51ec227c6d21677bd91f03cffc0d3db5e2bb
 
