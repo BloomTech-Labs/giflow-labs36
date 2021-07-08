@@ -47,8 +47,25 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 
-### Ryan Hamblin
+### Jaison A Alonso
 
+### Ryan Hamblin
 ### Alice Karsevar
 
-### Vince Garcia
+### Logan Til
+
+### Hillary Khan
+### George Vinueza
+
+### I am a merge conflict 👻
+
+### Francis Nguyen
+
+### Sergio Alvarez
+
+>>>>>>> e7be6c3770a00dfdb9f136564b3118d34415ca7f
+
+### Daniel Vargas
+
+
+>>>>>>> cd2d58c43a49a02316ee6c72978975a3f4ea58b5
