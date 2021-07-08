@@ -51,9 +51,6 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
-<<<<<<< HEAD
 ### Carlos Nevett 
-=======
 ### Daniel Vargas
 ### I am a merge conflict 👻
->>>>>>> 1240d50d244f45742b3a0cf22a4eb921f485d00b
