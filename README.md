@@ -55,6 +55,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Ryan Hammer
 
+### Hillary Khan
+
 ### George Vinueza
 
 ### I am a merge conflict 👻
@@ -68,5 +70,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Daniel Vargas
 
-### I am a merge conflict 👻
 
