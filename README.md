@@ -51,4 +51,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Alice Karsevar
 
+<<<<<<< HEAD
 ### Francis Nguyen
+=======
+### I am a merge conflict 👻
+>>>>>>> 74a9d8032d14318d3e8ea0cbebb87bf3ab661375
