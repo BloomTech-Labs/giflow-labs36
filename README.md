@@ -54,6 +54,8 @@ The following is a list of steps and instructions on how to complete this guided
 ### Alice Karsevar
 
 
+### Rebecca Peckman
+
 ### Connie Reynolds
 
 ### Logan Til
@@ -63,8 +65,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### George Vinueza
 
 ### I am a merge conflict 👻
-
-
 
 ### Francis Nguyen
 
@@ -78,4 +78,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 
 ### Alex Pfeifer
+
 
